@@ -29,7 +29,7 @@
 
 ```bash
 # ① 克隆
-git clone https://github.com/doubter439-max/qwenpaw-longtext-input.git
+git clone https://github.com/levodoubt/qwenpaw-longtext-input.git
 cd qwenpaw-longtext-input
 
 # ② 构建前端
