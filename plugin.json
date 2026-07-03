@@ -1,0 +1,13 @@
+{
+  "id": "longtext-input",
+  "name": "长文本输入",
+  "version": "1.0.0",
+  "type": "frontend",
+  "description": "在输入框左下角添加「长文本」按钮，弹出编辑器，保存后自动注入附件上传流",
+  "author": "Levodoubt",
+  "entry": {
+    "frontend": "dist/index.js"
+  },
+  "dependencies": [],
+  "min_version": "0.1.0"
+}

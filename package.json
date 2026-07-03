@@ -1,0 +1,14 @@
+{
+  "name": "qwenpaw-longtext-input",
+  "version": "1.0.0",
+  "description": "QwenPaw plugin: long-text input button with title support, injects content as chat attachment",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --watch"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "typescript": "^5.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
