@@ -3,7 +3,7 @@
   "name": "长文本输入",
   "version": "1.0.0",
   "type": "frontend",
-  "description": "在输入框左下角添加「长文本」按钮，弹出编辑器，保存后自动注入附件上传流",
+  "description": "在输入框左下角添加「长文本」按钮，弹出编辑器，保存后自动注入附件上传流。可用于超过输入框上限（10000字）的输入或报错等文本内容",
   "author": "Levodoubt",
   "entry": {
     "frontend": "dist/index.js"
